@@ -15,6 +15,7 @@
         If kubectl command gives unauthorized error then run below commands:
         - gcloud container clusters get-credentials learnk8s-cluster-prod
         - gcloud auth login default
+        
 
    **For Windows**
         set KUBECONFIG=kubeconfig-prod (in Command prompt)
